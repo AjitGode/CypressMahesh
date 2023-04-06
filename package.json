@@ -1,0 +1,24 @@
+{
+  "name": "cypress-practice1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://godeajit25@bitbucket.org/ajitgode/cypresspractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/ajitgode/cypresspractice/issues"
+  },
+  "homepage": "https://bitbucket.org/ajitgode/cypresspractice#readme",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8",
+    "npx": "^10.2.2"
+  }
+}
